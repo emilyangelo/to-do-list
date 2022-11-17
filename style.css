@@ -1,0 +1,37 @@
+ body {
+    background: rgb(39, 33, 33);
+    color: #fff;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+ }
+
+ .conteudo{
+    margin: 0;
+    width: 100%;
+    max-width: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(126, 120, 128);
+    padding: 100px;
+    border-radius: 20px;
+    
+ }
+
+ .to-do-send{
+    justify-content: space-between;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    width: 40px;
+    height: 40px;
+ }
+
+ .to-do-field{
+    width: 350px;
+    padding: 15px;
+    border-radius: 30px;
+    border: rgb(80, 67, 67);
+    outline: none;
+ }
